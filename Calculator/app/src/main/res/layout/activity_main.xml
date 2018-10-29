@@ -219,7 +219,6 @@
         ads:layout_constraintHorizontal_bias="0.0"
         ads:layout_constraintStart_toStartOf="parent"
         ads:layout_constraintTop_toBottomOf="@+id/tableLayout">
-        <!-- ca-app-pub-2664944714966743/4264517297 -->
 
     </com.google.android.gms.ads.AdView>
 
