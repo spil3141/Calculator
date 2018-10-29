@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
 
         //Implementation
         //For testing Us :ca-app-pub-3940256099942544/6300978111
-        // Live Ad mob Unit ID : ca-app-pub-2664944714966743~4411856950
 
         MobileAds.initialize(this,"ca-app-pub-3940256099942544/6300978111");
         mAdView = findViewById(R.id.adView);
